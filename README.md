@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Nate Halsey
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chel-mico&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chel-mico&cache_seconds=1800&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+My favourite languages:
+
+![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
+![C](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Cpp)
 
 <!--
 **natehalsey/natehalsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
