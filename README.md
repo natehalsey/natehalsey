@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natehalsey&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natehalsey&cache_seconds=1800&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=natehalsey&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
